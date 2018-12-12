@@ -1,5 +1,8 @@
 # Pokemon Incubator
 
+## Introduction
+This is a Pokemon incubator for generating new monsters using GAN and improved WGAN. Please look at the poster_latext_2.pdf for further introduction and contributors.
+
 ## Train
 
 1. Save training images to folder `training-data`
@@ -19,10 +22,6 @@ python train.py --epochs=100 --batch-size=32 \
 ![epoch_7450](examples/epoch_7450.png)
 ![epoch_17400](examples/epoch_17400.png)
 
-## Credits
-
-The code [wgan](wgan/wgan.py) and [wgangp](wgangp/wgangp.py) are taken and modified 
-from [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN).
 
 <details>
 <summary>Why not fork?</summary>
