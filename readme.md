@@ -30,7 +30,7 @@ to use. So we copied the code we need and modified them for our training sets.
 </details><br/><br/>
 
 [utils](utils.py) is taken and modified from 
-[Pokemon_GAM](https://github.com/llSourcell/Pokemon_GAN/blob/master/utils.py).
+[Pokemon_GAN](https://github.com/llSourcell/Pokemon_GAN/blob/master/utils.py).
 
 <details>
 <summary>Why not fork?</summary>
